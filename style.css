@@ -1,0 +1,33 @@
+td, th
+  {
+    border: 1px solid #993366;
+    text-align: left;
+    padding: 8px;
+  }
+.itemandtext
+  {
+  background-color: #ffcc80;
+  border: 6px dotted #804000;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  }
+.justtext
+  {
+    background-color: #ffb3b3;
+    border: 4px inset #669999;
+    margin: 20px;
+    padding: 20px;
+  }
+.nonfocalpoint
+{
+  border: 2px groove grey;
+}
+.lists
+{
+  font-family: sans-serif;
+}
+#captiontext
+{
+  font-size: small;
+}
